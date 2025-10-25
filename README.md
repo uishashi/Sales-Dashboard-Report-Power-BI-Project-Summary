@@ -1,6 +1,8 @@
 # Sales-Dashboard-Report-Power-BI-Project-Summary
 
 Hi everyone!
+
+
 I’m thrilled to share my Sales Dashboard Report created using Power BI.
 
 
